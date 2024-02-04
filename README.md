@@ -8,5 +8,8 @@ sample React app with routes configured via nginx conf file. following error sho
 <img width="200" height="200" alt="Screenshot 2024-02-04 at 11 13 18 AM" src="https://github.com/ksukhleen/Dockerise-React-App-with-nginx/assets/35762394/2bfd8836-6912-48c1-835b-70265910844d">
 
 
+### `Steps for setup`
 
+1. Clone the repository and run command "docker-compose up --build" in the folder's terminal.
+2. to remove nginx error, uncomment the location block in nginx.conf file and rerun the above command.
 
